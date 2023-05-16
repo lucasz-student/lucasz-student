@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasz-student
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: l.hsieh.student@gmail.com
 
 <!---
